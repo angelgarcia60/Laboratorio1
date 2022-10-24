@@ -1,0 +1,32 @@
+{
+  "files": {
+    "Camion.cpp": [
+      {
+        "id": "f1d674f3-e111-4e37-9e9d-72e5f3b337de",
+        "line": 29,
+        "version": 232,
+        "index": 496
+      },
+      {
+        "id": "6495a955-d4b4-4acf-a6d4-2b59095683f9",
+        "line": 31,
+        "version": 232,
+        "index": 560
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "e44aece5-0fca-4c73-8d77-02fef6948c3e",
+        "line": 22,
+        "version": 496,
+        "index": 698
+      },
+      {
+        "id": "d5591d3d-4f5f-4888-84bf-49313501f1e3",
+        "line": 31,
+        "version": 496,
+        "index": 861
+      }
+    ]
+  }
+}
