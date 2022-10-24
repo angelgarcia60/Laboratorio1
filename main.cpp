@@ -21,6 +21,8 @@ int main()
 {
   Camion unCamion("ABC-001", 10000);
   Camion otroCamion("DEF-002", 5000);
+  Camion tercerCamion("GHI-003", 4000);
+  Camion cuartoCamion("JKL-004", 12000);
 
   vector<int> objetos = 
   { 
